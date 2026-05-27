@@ -1,8 +1,8 @@
 # HR Analytics — Employee Attrition Dashboard
 ### Built with Power BI | DAX | Star Schema | Row-Level Security
 
->Most companies know their attrition rate. Very few know why people are leaving, which teams are most at risk right now, and what a department head can actually do about it — without needing to ask HR for a custom report every time.
-This dashboard changes that. It takes 1,470 employee records, builds a clean data model behind the scenes, and surfaces the answers that matter: Sales Representatives are leaving at nearly 40%. Employees on overtime are three times more likely to quit than those who are not. Leavers earn less than stayers on average. And every department head gets their own secure view of their team's data — without seeing anyone else's.
+>Most companies know their attrition rate but very few know why people are leaving, which teams are most at risk right now and what a department head can actually do about it  without needing to ask HR for a custom report every time.
+This dashboard changes that. It takes 1,470 employee records, builds a clean data model behind the scenes and surfaces the answers that matter: Sales Representatives are leaving at nearly 40%. Employees on overtime are three times more likely to quit than those who are not. Leavers earn less than stayers on average and every department head gets their own secure view of their team's data  without seeing anyone else's.
 
 
 ## Business Problem
